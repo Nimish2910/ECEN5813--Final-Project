@@ -1,0 +1,8 @@
+../Src/init.c:24:6:init_systick	8	static
+../Src/init.c:33:10:now	8	static
+../Src/init.c:37:6:delay_ms	24	static
+../Src/init.c:47:6:SysTick_Handler	8	static
+../Src/init.c:54:6:init_uart2	16	static
+../Src/init.c:71:6:init_tim14	8	static
+../Src/init.c:78:6:init_uleD	8	static
+../Src/init.c:86:6:init_all	8	static

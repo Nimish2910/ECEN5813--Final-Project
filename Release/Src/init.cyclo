@@ -1,0 +1,9 @@
+../Src/init.c:27:6:init_systick	1
+../Src/init.c:38:10:now	1
+../Src/init.c:45:6:delay_ms	2
+../Src/init.c:55:6:SysTick_Handler	1
+../Src/init.c:62:6:init_pwm_timer3	1
+../Src/init.c:90:6:init_uart2	1
+../Src/init.c:110:6:init_uleD	1
+../Src/init.c:120:6:init_emergency_button	1
+../Src/init.c:130:6:init_all	1

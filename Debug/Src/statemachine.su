@@ -1,0 +1,2 @@
+../Src/statemachine.c:33:6:state_machine_init	8	static
+../Src/statemachine.c:40:6:state_machine_run	32	static

@@ -1,0 +1,6 @@
+../Src/command_processor.c:30:13:uart2_tx_char	2
+../Src/command_processor.c:35:13:uart2_tx_str	2
+../Src/command_processor.c:39:13:uart2_prompt	1
+../Src/command_processor.c:44:13:process_command	3
+../Src/command_processor.c:65:6:command_processor_init	1
+../Src/command_processor.c:71:6:command_processor_run	6

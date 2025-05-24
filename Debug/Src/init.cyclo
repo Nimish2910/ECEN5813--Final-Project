@@ -1,0 +1,8 @@
+../Src/init.c:24:6:init_systick	1
+../Src/init.c:33:10:now	1
+../Src/init.c:37:6:delay_ms	2
+../Src/init.c:47:6:SysTick_Handler	1
+../Src/init.c:54:6:init_uart2	1
+../Src/init.c:71:6:init_tim14	1
+../Src/init.c:78:6:init_uleD	1
+../Src/init.c:86:6:init_all	1
